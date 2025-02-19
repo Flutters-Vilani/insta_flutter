@@ -1,0 +1,3 @@
+class Stories {
+  dynamic stories = [];
+}
